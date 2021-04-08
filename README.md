@@ -1,2 +1,2 @@
 # NaofumiChatbot
-A little AI project for fun~
+A little AI chatbot project for fun~
