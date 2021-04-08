@@ -1,0 +1,70 @@
+{
+  "schema": "husbando-schema.js",
+  "Husbando": {
+    "Naofumi": [
+      {
+        "id" : "naofumi_iwatani",
+        "FirstName": "Naofumi",
+        "LastName": "Iwatani",
+        "Race": "Human",
+        "Gender": "Male",
+        "Age": "20",
+        "HairColor": "Black",
+        "EyeColor": "Green",
+        "Birthday": "29.10.",
+        "Family":
+        [
+          {"Member": "Father"},
+          {"Member": "Mother"},
+          {"Member": "Younger brother"}
+        ],
+        "Friends":
+        [
+          {"Name": "Raphtalia", "Race": "", "Gender": "Female", "Age": ""},
+          {"Name": "Melty", "Race": "", "Gender": "Female" , "Age": ""}
+        ],
+        "Weapons":
+        [
+          "Legendary Shield",
+          "immunity to alcohol",
+          "immunity to motion sickness"
+        ],
+        "Quotes":
+        [
+          "I see. Joining me was just a ruse to destroy me right here. It was all a lie! The smiles she showed me, and her acts of kindness, were all fake!",
+          "Also, feel free to tell people about me. Tell them that any trader who messes with me will end up with bite marks all over.",
+          "Shall I focus the attacks on your face and your crotch? I’m a cowardly cheat, after all!",
+          "If I can’t win anyway, I might as well make you as miserable as I can.",
+          "I’m really weak you see, I don’t have a second to waste.",
+          "I could sit tight and watch you morons become monster feed. That doesn’t sound too bad!",
+          "Compared to you a gold coin means nothing.",
+          "My name was being cleared in the public eye, and yet my heart didn’t feel the least bit lighter.",
+          "With no need to work part-time, I got to enjoy an idyllic Otaku life. That said, I certainly wasn’t one of your so-called shut-ins. When I’d run out of money to spend, I’d go to the library to browse through my light novels. I was a completely run-of-the-mill Otaku leading a completely ordinary life… but it all changed when I picked up this book.",
+          "I shall handle the waves my way then. Get off me already.",
+          "This is what you wanted right? You can shove it up your a*s.",
+          "Because I’m the shield hero, because I’m weak they’re trying to knock me down to make themselves look better. Disgusting.",
+          "I’ve gained more important things thanks to becoming the shield hero. Wherever the waves go I’ll go with my friends.",
+          "I’ve never heard of a hero who abandons a child to run away.",
+          "Abandoning her and running away is an option. But she believed in me. I …don’t want to betray someone who placed their trust in me. I did make her a promise.",
+          "I’d rather have money than words.",
+          "Uh, I’m pretty sure a shield is more like armor than a weapon. And where’s the heroine, anyway? I don’t think it’s this princess. She seems kinda sl*tty.",
+          "I have to grow stronger… along with the people who believe in me, and I’ll protect them, come what may!",
+          "The shield’s role would be to thwart enemy attacks and defend the party, right? And while my life back home was devoid of romance, I might just meet the one here. It’ll be fine. I’ve been summoned to another world, after all. Even if I’m weak, things will work out. All right, I’m gonna give it my all!",
+          "Didn’t I swear to protect Raphtalia, Filo, And all the villagers?",
+          "You attack and I defend. That way, neither of us will die.",
+          "Listen Raphtalia. Take that thing out here and now. If you fight and make me stronger, we can fend off the waves of Catastrophe and prevent that tragedy from reoccurring. Your parents won’t ever come back. But we can prevent other kids from going through what you did. And all I’m capable of is making sure you can fight as best as you can."
+        ],
+        "History":
+        [
+          "Naofumi was summoned to another world through a book called 'The Record of the Four Holy Weapons'.",
+          "As the only hero to be their weapon's first choice, Naofumi is also the only hero among the Four Legendary Heroes who did not die prior to being summoned to Melromarc.",
+          "Naofumi's favorite fruit is Rucolu Fruits, which are commonly used to make water barrels into alcohol. Additionally, his love for the fruit became so well-known, it's now used to confirm the Shield Hero's identity.",
+          "Naofumi's birthday is October 29th which is actually a Japanese pun since the character for "10" looks like a spear and shield while "29" somewhat translates to meat shield or tank.",
+          "Naofumi, Raphtalia and Filo are featured characters in the second season of the cross-dimensional anime series Isekai Quartet.",
+          "The name Naofumi means esteem, furthermore, still, yet (尚) (nao) and sentence, writing (文) (fumi).",
+          "Naofumi's surname Iwatani means rock, boulder (岩) (iwa) and valley (谷) (tani)."
+        ]
+      }
+    ]
+  }
+}
